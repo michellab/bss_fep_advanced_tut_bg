@@ -243,7 +243,8 @@ class GraphGen(object):
                     wgt = self.dbase.strict_mtx[i, self.lead_index]
                     if wgt > 0:
                         compound_graph.add_edge(i, self.lead_index, similarity=wgt, strict_flag=True)
-
+                        
+                        (B.subgraph(c) for c in nx.connected_components(B))
         initialSubgraphGen = nx.connected_component_subgraphs(compound_graph)
         initialSubgraphList = [x for x in initialSubgraphGen]
 
@@ -798,19 +799,21 @@ class GraphGen(object):
             if self.edge_labels:
                 temp_graph[u][v]['label'] = round(d['similarity'],2)
 
-        nx.nx_agraph.write_dot(temp_graph, self.dbase.options.name + '_tmp.dot')
+        # BSS: don't need .dot file for our workflow, comment so that we don't need
+        # to install pygraphviz. -JS
+        # nx.nx_agraph.write_dot(temp_graph, self.dbase.options.name + '_tmp.dot')
 
-        cmd = 'dot -Tpng ' + self.dbase.options.name + '_tmp.dot -o ' + self.dbase.options.name + '.png'
+        # cmd = 'dot -Tpng ' + self.dbase.options.name + '_tmp.dot -o ' + self.dbase.options.name + '.png'
 
-        os.system(cmd)
-        cmd = 'dot -Teps ' + self.dbase.options.name + '_tmp.dot -o ' + self.dbase.options.name + '.eps'
+        # os.system(cmd)
+        # cmd = 'dot -Teps ' + self.dbase.options.name + '_tmp.dot -o ' + self.dbase.options.name + '.eps'
 
-        os.system(cmd)
-        cmd = 'dot -Tpdf ' + self.dbase.options.name + '_tmp.dot -o ' + self.dbase.options.name + '.pdf'
+        # os.system(cmd)
+        # cmd = 'dot -Tpdf ' + self.dbase.options.name + '_tmp.dot -o ' + self.dbase.options.name + '.pdf'
 
-        os.system(cmd)
-        os.remove(self.dbase.options.name + '_tmp.dot')
-        shutil.rmtree(directory_name, ignore_errors=True)
+        # os.system(cmd)
+        # os.remove(self.dbase.options.name + '_tmp.dot')
+        # shutil.rmtree(directory_name, ignore_errors=True)
 
     # The function to output the score and connectivity txt file
 
@@ -895,7 +898,10 @@ class GraphGen(object):
             if not output_no_images:
                 self.generate_depictions()
             if not output_no_graph:
-                nx.nx_agraph.write_dot(self.resultGraph, self.dbase.options.name + '.dot')
+                # BSS: don't need .dot file for our workflow, comment so that we don't need
+                # to install pygraphviz. -JS
+                pass
+                #nx.nx_agraph.write_dot(self.resultGraph, self.dbase.options.name + '.dot')
         except Exception as e:
             traceback.print_exc()
             raise IOError('Problems during the file generation: %s' % str(e))
