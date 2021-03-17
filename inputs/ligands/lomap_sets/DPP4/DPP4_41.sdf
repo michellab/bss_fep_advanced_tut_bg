@@ -1,0 +1,262 @@
+12b (R)
+ OpenBabel04261912203D
+
+ 47 49  0  0  1  0  0  0  0  0999 V2000
+   35.6918   48.5482   36.3109 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.5541   49.3136   36.4757 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.6650   50.6752   36.6408 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.9058   51.2751   36.6396 C   0  0  0  0  0  0  0  0  0  0  0  0
+   37.0472   50.5141   36.4752 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.9306   49.1501   36.3132 C   0  0  0  0  0  0  0  0  0  0  0  0
+   38.4296   51.1565   36.4636 C   0  0  0  0  0  0  0  0  0  0  0  0
+   39.1083   51.2266   35.0767 C   0  0  2  0  0  0  0  0  0  0  0  0
+   40.5023   51.8826   35.1767 C   0  0  0  0  0  0  0  0  0  0  0  0
+   41.5142   51.0693   35.9636 C   0  0  0  0  0  0  0  0  0  0  0  0
+   38.2690   52.0312   34.1231 N   0  3  0  0  0  0  0  0  0  0  0  0
+   41.2235   49.9751   36.4284 O   0  0  0  0  0  0  0  0  0  0  0  0
+   43.7410   50.9833   36.9499 C   0  0  0  0  0  0  0  0  0  0  0  0
+   43.1332   52.9362   35.4947 C   0  0  0  0  0  0  0  0  0  0  0  0
+   44.3665   52.7809   34.5704 C   0  0  2  0  0  0  0  0  0  0  0  0
+   42.7286   51.6469   36.1074 N   0  0  0  0  0  0  0  0  0  0  0  0
+   45.1053   51.1325   36.3097 C   0  0  0  0  0  0  0  0  0  0  0  0
+   46.7159   51.7915   34.9677 C   0  0  0  0  0  0  0  0  0  0  0  0
+   45.3855   51.9539   35.2585 N   0  0  0  0  0  0  0  0  0  0  0  0
+   46.1950   50.5203   36.6483 N   0  0  0  0  0  0  0  0  0  0  0  0
+   47.1926   50.9299   35.8146 N   0  0  0  0  0  0  0  0  0  0  0  0
+   47.5358   52.4594   33.8752 C   0  0  0  0  0  0  0  0  0  0  0  0
+   48.8336   51.9595   33.8512 F   0  0  0  0  0  0  0  0  0  0  0  0
+   46.9960   52.2455   32.6111 F   0  0  0  0  0  0  0  0  0  0  0  0
+   47.6413   53.8309   34.0757 F   0  0  0  0  0  0  0  0  0  0  0  0
+   35.5957   47.2208   36.1464 F   0  0  0  0  0  0  0  0  0  0  0  0
+   35.9877   52.6043   36.7997 F   0  0  0  0  0  0  0  0  0  0  0  0
+   33.3424   48.7390   36.4750 F   0  0  0  0  0  0  0  0  0  0  0  0
+   44.7767   54.1949   34.1111 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.8425   51.2311   36.7607 H   0  0  0  0  0  0  0  0  0  0  0  0
+   37.7524   48.5931   36.1932 H   0  0  0  0  0  0  0  0  0  0  0  0
+   38.3700   52.2692   36.9099 H   0  0  0  0  0  0  0  0  0  0  0  0
+   39.1321   50.5190   37.1977 H   0  0  0  0  0  0  0  0  0  0  0  0
+   39.2283   50.1150   34.6407 H   0  0  0  0  0  0  0  0  0  0  0  0
+   40.3478   52.9540   35.6948 H   0  0  0  0  0  0  0  0  0  0  0  0
+   40.9081   52.0075   34.0542 H   0  0  0  0  0  0  0  0  0  0  0  0
+   37.4347   51.6794   34.0313 H   0  0  0  0  0  0  0  0  0  0  0  0
+   38.6349   52.0608   33.2905 H   0  0  0  0  0  0  0  0  0  0  0  0
+   38.1679   52.8914   34.4040 H   0  0  0  0  0  0  0  0  0  0  0  0
+   43.4898   49.8152   37.0602 H   0  0  0  0  0  0  0  0  0  0  0  0
+   43.7526   51.4925   38.0365 H   0  0  0  0  0  0  0  0  0  0  0  0
+   42.2827   53.5081   34.8767 H   0  0  0  0  0  0  0  0  0  0  0  0
+   43.4603   53.6578   36.3960 H   0  0  0  0  0  0  0  0  0  0  0  0
+   44.0084   52.1741   33.5989 H   0  0  0  0  0  0  0  0  0  0  0  0
+   45.3730   54.7465   34.9943 H   0  0  0  0  0  0  0  0  0  0  0  0
+   45.4682   54.1198   33.1350 H   0  0  0  0  0  0  0  0  0  0  0  0
+   43.8175   54.8517   33.8123 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 28  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 30  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 27  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6 31  1  0  0  0  0
+  7 32  1  0  0  0  0
+  7 33  1  0  0  0  0
+  8  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 34  1  6  0  0  0
+  9 10  1  0  0  0  0
+  9 35  1  0  0  0  0
+  9 36  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 37  1  0  0  0  0
+ 11 38  1  0  0  0  0
+ 11 39  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 40  1  0  0  0  0
+ 13 41  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 42  1  0  0  0  0
+ 14 43  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 15 44  1  6  0  0  0
+ 16 14  1  0  0  0  0
+ 18 21  2  0  0  0  0
+ 18 22  1  0  0  0  0
+ 19 17  1  0  0  0  0
+ 19 18  1  0  0  0  0
+ 20 17  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 22 25  1  0  0  0  0
+ 29 45  1  0  0  0  0
+ 29 46  1  0  0  0  0
+ 29 47  1  0  0  0  0
+M  CHG  1  11   1
+M  END
+>  <Mean(IC50 fixed2)>
+
+
+>  <First(BindingDB Ligand Name)>
+MK-0431
+
+>  <Concatenate(Target Name Assigned by Curator or DataSource)>
+Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV), Dipeptidyl Peptidase IV (DPP-IV)
+
+>  <First(Target Source Organism According to Curator or DataSource)>
+Homo sapiens (human)
+
+>  <First(Curation/DataSource)>
+Curated from the literature by BindingDB
+
+>  <First(Article DOI)>
+10.1021/jm0493156
+
+>  <Mean(PMID)>
+19431262.6206896
+
+>  <First(Authors)>
+Kim, D; Wang, L; Beconi, M; Eiermann, GJ; Fisher, MH; He, H; Hickey, GJ; Kowalchick, JE; Leiting, B; Lyons, K; Marsilio, F; McCann, ME; Patel, RA; Petrov, A; Scapin, G; Patel, SB; Roy, RS; Wu, JK; Wyvratt, MJ; Zhang, BB; Zhu, L; Thornberry, NA; Weber, AE
+
+>  <First(Institution)>
+Merck Research Laboratories
+
+>  <First(Link to Ligand in BindingDB)>
+http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=11162
+
+>  <First(Link to Ligand-Target Pair in BindingDB)>
+http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_ki.jsp?energyterm=kJ/mole&tag=r21&monomerid=11162&enzyme=Dipeptidyl+Peptidase+IV+%28DPP-IV%29&column=ki&startPg=0&Increment=50&submit=Search
+
+>  <First(PDB ID(s) for Ligand-Target Complex)>
+1X70
+
+>  <Mean(PubChem CID)>
+5319916.13793104
+
+>  <Mean(PubChem SID)>
+52469287.7586207
+
+>  <Mean(ChEBI ID of Ligand)>
+40237
+
+>  <Mean(IUPHAR_GRAC ID of Ligand)>
+6286
+
+>  <First(ZINC ID of Ligand)>
+ZINC01489478
+
+>  <Concatenate*(UniProt (SwissProt) Entry Name of Target Chain)>
+DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN, DPP4_HUMAN
+
+>  <Mean(Number of Protein Chains in Target (>1 implies a multichain complex))>
+1
+
+>  <Median(pIC50)>
+7.85
+
+>  <Journal>
+JMedChem2008
+
+>  <Activity Classes>
+7.85
+
+>  <Conformer_cresset>
+1
+
+>  <Similarity_cresset>
+0.849
+
+>  <Favorite_cresset>
+false
+
+>  <Activity (Median(pIC50))_cresset>
+7.85
+
+>  <LE (Median(pIC50))_cresset>
+0.379
+
+>  <LipE (Median(pIC50))_cresset>
+4.5
+
+>  <Tags_cresset>
+training
+
+>  <Confs_cresset>
+1
+
+>  <Conf#_cresset>
+1
+
+>  <Alns_cresset>
+1
+
+>  <MW_cresset>
+422.4
+
+>  <#Atoms_cresset>
+29
+
+>  <SlogP_cresset>
+3.4
+
+>  <TPSA_cresset>
+78.7
+
+>  <Flexibility_cresset>
+4.9
+
+>  <#RB_cresset>
+6
+
+>  <Rof5_cresset>
+0
+
+>  <Filename_cresset>
+bindingdb_similar_1x70_processed.sdf
+
+>  <Notes_cresset>
+12b (R)
+manually added
+
+>  <Selected Alignment_cresset>
+true
+
+>  <Alignment Cluster Centre_cresset>
+false
+
+>  <_cresset_fieldpoints>
+-5      41.148399      48.305897      37.132595     -6.9720
+-5      47.802673      49.614090      36.988968    -12.3415
+-5      33.073624      45.874504      36.259491     -2.7282
+-6      35.789749      50.522560      33.312759      5.5087
+-6      41.965576      53.538017      32.686775     11.7479
+-7      36.072334      49.550423      39.640129     -2.1466
+-7      40.184566      54.459789      33.398544     -1.9337
+-7      38.508995      54.688469      36.133656     -2.0389
+-7      40.304047      50.257462      32.194145     -1.5306
+-7      42.010681      53.445347      32.260033     -2.0982
+-7      44.077751      52.968044      31.138683     -1.6211
+-7      47.193680      48.582901      35.298744     -1.5209
+-7      45.964134      54.090981      37.372513     -2.5259
+-7      41.026073      52.664085      38.315483     -2.6345
+-7      42.438339      56.086624      35.726818     -1.4802
+-7      49.446983      54.086784      31.285774     -1.1369
+-7      48.073021      51.779564      37.910938     -1.5211
+-7      46.751434      55.287025      31.257431     -1.3274
+-7      35.691242      50.072395      33.267685     -2.6113
+-7      40.083359      48.045349      35.984978     -2.5029
+-7      43.052124      49.798973      33.857761     -2.7739
+-8      35.795307      49.908409      36.473930      7.2626
+-8      39.544403      51.505699      35.921547      4.9598
+-8      43.846886      53.655872      34.679379      4.9507
+-8      37.020641      51.374626      36.575279      5.6164
+-8      44.249073      50.834045      37.281006      2.7879
+-8      47.552074      52.514381      33.809593      5.6979
+
+$$$$
