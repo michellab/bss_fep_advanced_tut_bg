@@ -1,0 +1,494 @@
+------------------------------
+ID 0	000.pdb
+ID 1	001.pdb
+ID 2	002.pdb
+ID 3	003.pdb
+ID 4	004.pdb
+ID 5	005.pdb
+ID 6	006.pdb
+ID 7	007.pdb
+ID 8	008.pdb
+ID 9	009.pdb
+ID 10	010.pdb
+ID 11	011.pdb
+ID 12	012.pdb
+ID 13	013.pdb
+ID 14	014.pdb
+ID 15	015.pdb
+ID 15	015.pdb
+	.	.
+	.	.
+	.	.
+
+------------------------------
+Finish reading input files. 16 structures in total....skipped 0
+
+
+Matrix scoring in progress....
+
+Skipping MCS molecules (exception): 000.pdb - 001.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 000.pdb - 002.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 000.pdb - 003.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 000.pdb - 004.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+MCS molecules: 000.pdb - 005.pdb final score 0.33287108369807955 from ecr 1.0 mncar 1.0 mcsr 0.6065306597126334 tmcsr 1.0 anum 1.0 sulf 1.0 het 1.0 RingMe 0.5488116360940264
+Skipping MCS molecules (exception): 000.pdb - 006.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 000.pdb - 007.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+MCS molecules: 000.pdb - 008.pdb final score 0.33287108369807955 from ecr 1.0 mncar 1.0 mcsr 0.6065306597126334 tmcsr 1.0 anum 1.0 sulf 1.0 het 1.0 RingMe 0.5488116360940264
+Skipping MCS molecules (exception): 000.pdb - 009.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 000.pdb - 010.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 000.pdb - 011.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 000.pdb - 012.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 000.pdb - 013.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 000.pdb - 014.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+MCS molecules: 000.pdb - 015.pdb final score 0.33287108369807955 from ecr 1.0 mncar 1.0 mcsr 0.6065306597126334 tmcsr 1.0 anum 1.0 sulf 1.0 het 1.0 RingMe 0.5488116360940264
+Skipping MCS molecules (exception): 001.pdb - 002.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 001.pdb - 003.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 001.pdb - 004.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 001.pdb - 005.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 001.pdb - 006.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 001.pdb - 007.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 001.pdb - 008.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 001.pdb - 009.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 001.pdb - 010.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 001.pdb - 011.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 001.pdb - 012.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 001.pdb - 013.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 001.pdb - 014.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 001.pdb - 015.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 002.pdb - 003.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 002.pdb - 004.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 002.pdb - 005.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 002.pdb - 006.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 002.pdb - 007.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 002.pdb - 008.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 002.pdb - 009.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 002.pdb - 010.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 002.pdb - 011.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 002.pdb - 012.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 002.pdb - 013.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 002.pdb - 014.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 002.pdb - 015.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 003.pdb - 004.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 003.pdb - 005.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 003.pdb - 006.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 003.pdb - 007.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 003.pdb - 008.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 003.pdb - 009.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 003.pdb - 010.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 003.pdb - 011.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 003.pdb - 012.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 003.pdb - 013.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 003.pdb - 014.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 003.pdb - 015.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 004.pdb - 005.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 004.pdb - 006.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 004.pdb - 007.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 004.pdb - 008.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 004.pdb - 009.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 004.pdb - 010.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 004.pdb - 011.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 004.pdb - 012.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 004.pdb - 013.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 004.pdb - 014.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 004.pdb - 015.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 005.pdb - 006.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 005.pdb - 007.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+MCS molecules: 005.pdb - 008.pdb final score 0.951229424500714 from ecr 1.0 mncar 1.0 mcsr 1.0 tmcsr 1.0 anum 0.951229424500714 sulf 1.0 het 1.0 RingMe 1
+Skipping MCS molecules (exception): 005.pdb - 009.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 005.pdb - 010.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 005.pdb - 011.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 005.pdb - 012.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 005.pdb - 013.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 005.pdb - 014.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+MCS molecules: 005.pdb - 015.pdb final score 0.951229424500714 from ecr 1.0 mncar 1.0 mcsr 1.0 tmcsr 1.0 anum 0.951229424500714 sulf 1.0 het 1.0 RingMe 1
+Skipping MCS molecules (exception): 006.pdb - 007.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 006.pdb - 008.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 006.pdb - 009.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 006.pdb - 010.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 006.pdb - 011.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 006.pdb - 012.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 006.pdb - 013.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 006.pdb - 014.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 006.pdb - 015.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 007.pdb - 008.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 007.pdb - 009.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 007.pdb - 010.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 007.pdb - 011.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 007.pdb - 012.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 007.pdb - 013.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 007.pdb - 014.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 007.pdb - 015.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 008.pdb - 009.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 008.pdb - 010.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 008.pdb - 011.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 008.pdb - 012.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 008.pdb - 013.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 008.pdb - 014.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+MCS molecules: 008.pdb - 015.pdb final score 0.951229424500714 from ecr 1.0 mncar 1.0 mcsr 1.0 tmcsr 1.0 anum 0.951229424500714 sulf 1.0 het 1.0 RingMe 1
+Skipping MCS molecules (exception): 009.pdb - 010.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 009.pdb - 011.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 009.pdb - 012.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 009.pdb - 013.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 009.pdb - 014.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 009.pdb - 015.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 010.pdb - 011.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 010.pdb - 012.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 010.pdb - 013.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 010.pdb - 014.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 010.pdb - 015.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 011.pdb - 012.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 011.pdb - 013.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 011.pdb - 014.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 011.pdb - 015.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 012.pdb - 013.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 012.pdb - 014.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 012.pdb - 015.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 013.pdb - 014.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 013.pdb - 015.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+Skipping MCS molecules (exception): 014.pdb - 015.pdb	
+
+Hydrogens not after all heavy atoms in molecule
+--------------------------------------------------
+
+Generating graph in progress....
+------------------------------
+------------------------------
